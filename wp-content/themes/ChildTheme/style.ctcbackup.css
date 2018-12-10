@@ -1,0 +1,18 @@
+/*
+Theme Name: Child Theme
+Theme URI: https://test.frontity.io
+Template: twentyseventeen
+Author: Frontity
+Author URI: https://test.frontity.io
+Description: This is a child theme based on Twenty Seventeen.
+Tags: one-column,two-columns,right-sidebar,flexible-header,accessibility-ready,custom-colors,custom-header,custom-menu,custom-logo,editor-style,featured-images,footer-widgets,post-formats,rtl-language-support,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 1.7.1537184100
+
+*/
+
+@media only screen and (min-width: 750px) {	
+.site-header{
+	width:905px;
+		margin:auto;
+}
+}

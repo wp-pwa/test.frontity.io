@@ -1,0 +1,18 @@
+�n�[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:57;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2016-10-25 18:25:24";s:13:"post_date_gmt";s:19:"2016-10-25 16:25:24";s:12:"post_content";s:2614:"Shinjuku Gyoen National Garden (新宿御苑 Shinjuku Gyoen) is a large park with an eminent garden in Shinjuku and Shibuya, Tokyo, Japan. It was originally a residence of the Naitō family in the Edo period. Afterwards, it became a garden under the management of the Imperial Household Agency of Japan. <!--more-->It is now a park under the jurisdiction of the national Ministry of the Environment.
+
+The shogun bequeathed this land to Lord Naitō (daimyo) of Tsuruga in the Edo period who completed a garden here in 1772. After the <a href="https://en.wikipedia.org/wiki/Meiji_Restoration" target="_blank">Meiji Restoration</a> the house and its grounds were converted into an experimental agricultural centre. It then became a botanical garden before becoming an imperial garden in 1879. The current configuration of the garden was completed in 1906. <strong>Most of the garden was destroyed</strong> by air raids in 1945, during the later stages of World War II. The garden was rebuilt after the war.
+<h2>More than 20,000 trees</h2>
+[caption id="attachment_77" align="alignnone" width="840"]<a href="https://flic.kr/p/5H2sDW"><img class="wp-image-77 size-large" src="https://test.frontity.io/wp-content/uploads/2016/11/ShinjukuGyoen-1024x680.jpg" alt="Shinjuku Gyoen" width="840" height="558" /></a> Shinjuku Gyoen National Garden by Hiroshiykw.[/caption]
+
+The garden has more than 20,000 trees, including approximately 1,500 cherry trees which bloom from late March (Shidare or Weeping Cherry), to early April (Somei or Tokyo Cherry), and on to late April (Kanzan Cherry). Other trees found here include the majestic <strong>Himalayan cedars</strong>, which soar above the rest of the trees in the park, tulip trees, cypresses, and plane trees, which were first planted in Japan in the Imperial Gardens.
+
+Horticulture work has been going on in the greenhouses in the garden since 1892. The present greenhouse, built in the 1950s has a stock of over 1,700 tropical and subtropical plant species on permanent display.
+
+You may also like our <a href="https://test.frontity.io/banff-national-park/">post about the Banff National Park</a> in Canada.
+
+Source: <a href="https://en.wikipedia.org/wiki/Shinjuku_Gyoen">Shinjuku Gyoen</a>.
+Photo: Shinjuku Gyoen National Garden by <a href="https://flic.kr/p/5H2sDW" target="_blank">Hiroshiykw</a>.
+Tags: <a href="https://test.frontity.io/tag/japan">Japan</a>, <a href="https://test.frontity.io/tag/tokyo/">Tokyo</a>, <a href="https://test.frontity.io/tag/national-garden/">National Garden</a>
+
+<a href="https://test.frontity.io/about-us/">About us</a>.";s:10:"post_title";s:30:"Shinjuku Gyoen National Garden";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:30:"shinjuku-gyoen-national-garden";s:7:"to_ping";s:0:"";s:6:"pinged";s:46:"
+https://test.frontity.io/banff-national-park/";s:13:"post_modified";s:19:"2018-11-23 14:45:04";s:17:"post_modified_gmt";s:19:"2018-11-23 12:45:04";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:30:"https://test.frontity.io/?p=57";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

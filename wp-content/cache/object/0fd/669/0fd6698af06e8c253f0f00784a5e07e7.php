@@ -1,0 +1,1 @@
+ÄÂû[<?php exit; ?>a:1:{s:7:"content";a:6:{s:10:"_edit_lock";a:1:{i:0;s:12:"1542977209:2";}s:10:"_edit_last";a:1:{i:0;s:1:"2";}s:40:"_oembed_ea1251c3ffee4174a9f265446096dc9f";a:1:{i:0;s:11:"{{unknown}}";}s:13:"_thumbnail_id";a:1:{i:0;s:2:"13";}s:7:"_pingme";a:1:{i:0;s:1:"1";}s:10:"_encloseme";a:1:{i:0;s:1:"1";}}}

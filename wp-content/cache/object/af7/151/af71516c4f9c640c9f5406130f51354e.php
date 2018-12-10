@@ -1,0 +1,14 @@
+�n�[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:51;s:11:"post_author";s:1:"4";s:9:"post_date";s:19:"2016-09-25 18:05:31";s:13:"post_date_gmt";s:19:"2016-09-25 16:05:31";s:12:"post_content";s:1842:"<h3>Phú Quốc</h3>
+Phú Quốc is the largest island in Vietnam. Phú Quốc and nearby islands, along with distant Thổ Chu Islands, is part of Kiên Giang Province as Phú Quốc District, the district has a total area of 574 square kilometres and a permanent population of approximately 103,000. <!--more-->Located in the Gulf of Thailand, the district of Phú Quốc includes the island proper and 21 smaller islets. The district seat, Dương Đông, is located on the west coast, and is also the largest town on the island. The economy is centered on fishing, agriculture and a fast-growing tourism sector.
+
+<img class="alignnone wp-image-84 size-large" src="https://test.frontity.io/wp-content/uploads/2016/11/pexels-photo-225203-1024x675.jpeg" alt="pexels-photo-225203" width="840" height="554" />
+
+From March 2014, <a href="http://vietnamtourism.com/" target="_blank">Vietnam</a> allows all foreign tourists to visit Phú Quốc visa-free for a period of up to 30 days.
+<h3><strong>Geography</strong></h3>
+Phú Quốc lies south of the Cambodian coast, west of Kampot, and 40 km west of Ha Tien, the nearest coastal town in Vietnam. Roughly triangular in shape the island is 50 kilometres long from north to south and 25 kilometres from east to west in the north at its widest. It is also located 62 nautical miles from Rạch Giá and nearly 290 nautical miles from Laem Chabang, Thailand.
+
+A mountainous ridge known as "99 Peaks" runs the length of Phú Quốc, with Chúa Mountain being the tallest at 603 metres.
+
+Phu Quoc Island is mainly composed of sedimentary rocks from the Mesozoic and Cenozoic age, including heterogeneous conglomerate composition, layering thick, quartz pebbles, silica, limestone, riolit and felsit.
+
+Source: <a href="https://en.wikipedia.org/wiki/Ph%C3%BA_Qu%E1%BB%91c">Phú Quốc</a>.";s:10:"post_title";s:29:"Sunrise at Phú Quốc Island";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:26:"sunrise-at-phu-quoc-island";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-11-23 14:45:20";s:17:"post_modified_gmt";s:19:"2018-11-23 12:45:20";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:30:"https://test.frontity.io/?p=51";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

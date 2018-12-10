@@ -1,0 +1,13 @@
+���[<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:2:"42";s:11:"post_author";s:1:"3";s:9:"post_date";s:19:"2016-09-25 17:49:27";s:13:"post_date_gmt";s:19:"2016-09-25 15:49:27";s:12:"post_content";s:1829:"Kebumen is a town on the island of <a href="https://en.wikipedia.org/wiki/Java" target="_blank">Java</a>, Indonesia. It is the capital of Kebumen Regency, Central Java region. The population of the town at the 2015 Census was 121,580. <!--more-->Although this district became the administrative center Kebumen but the population of this district the second largest in Kebumen after Karanganyar town located 22 km west of the city Kebumen. Kebumen city has another name Swallow City, City Tours, and the city of culture.
+<h3><strong>Geography</strong></h3>
+Kebumen is located near the Indian Ocean, it is also called Samudera Indonesia . The city is bisected by the Kali Lukulo (Lukulo River). It lies near three major roads, Jalan Pahlawan, Jalan HM. Sarbini and Jalan Ronggowarsito. Its geographic location is 7°40′33.4″S 109°39′50.6″E.
+
+<img class="alignnone wp-image-91 size-large" src="https://test.frontity.io/wp-content/uploads/2016/11/indonesia-1024x464.jpg" alt="indonesia" width="840" height="381" />
+<h3><strong>Demographics</strong></h3>
+The population is almost entirely Javanese and over 96% Muslim. The village of Kebumen has a multi-religious population.
+<h3><strong>Economy</strong></h3>
+The agricultural sector is quite dominant role in the economy Kebumen City. Donations GDP reached 44.77 percent contained. Agricultural commodities mainstay of this region is the product of food crops, especially rice, cassava, soybean and coconut plantations especially. Then from the Tourism sector also supports the economy of Kebumen City.
+
+<img class="alignnone wp-image-93 size-large" src="https://test.frontity.io/wp-content/uploads/2016/11/arwan-sutanto-1024x646.jpg" alt="arwan-sutanto" width="840" height="530" />
+
+Source: <a href="https://en.wikipedia.org/wiki/Kebumen_City">Kebumen City</a>.";s:10:"post_title";s:12:"Kebumen City";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:7:"kebumen";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-11-23 14:45:39";s:17:"post_modified_gmt";s:19:"2018-11-23 12:45:39";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:30:"https://test.frontity.io/?p=42";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}
